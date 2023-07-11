@@ -1,0 +1,5 @@
+#naver-cloud-sms:
+#  accessKey: accessKey
+#  secretKey: secretKey
+#  serviceId: serviceId
+#  senderPhone: 15555555 //네이버 클라우드 플랫폼 인증 필요
