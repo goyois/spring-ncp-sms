@@ -22,6 +22,8 @@ public class SmsController {
      * API 사용 시 NCP 대표번호 인증이 필요함
      */
 
+
+    
     private final SmsService smsService;
 
     @PostMapping("/sms/send")
